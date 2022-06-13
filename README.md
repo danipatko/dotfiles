@@ -1,2 +1,5 @@
 # dotfiles
-The current desktop rice
+The current i3-gaps desktop rice
+
+
+![preview](https://github.com/danipatko/dotfiles/blob/main/rice.png?raw=true)
